@@ -1,0 +1,10 @@
+F:\Google Drive\Projekte\VS\sfml_cs\bin\Release\sfml_cs.exe.config
+F:\Google Drive\Projekte\VS\sfml_cs\bin\Release\sfml_cs.exe
+F:\Google Drive\Projekte\VS\sfml_cs\bin\Release\sfml_cs.pdb
+F:\Google Drive\Projekte\VS\sfml_cs\bin\Release\sfmlnet-audio-2.dll
+F:\Google Drive\Projekte\VS\sfml_cs\bin\Release\sfmlnet-graphics-2.dll
+F:\Google Drive\Projekte\VS\sfml_cs\bin\Release\sfmlnet-window-2.dll
+F:\Google Drive\Projekte\VS\sfml_cs\obj\Release\sfml_cs.Properties.Resources.resources
+F:\Google Drive\Projekte\VS\sfml_cs\obj\Release\sfml_cs.csproj.GenerateResource.Cache
+F:\Google Drive\Projekte\VS\sfml_cs\obj\Release\sfml_cs.exe
+F:\Google Drive\Projekte\VS\sfml_cs\obj\Release\sfml_cs.pdb
